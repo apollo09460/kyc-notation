@@ -23,7 +23,7 @@ export async function POST() {
 
         // SET REGION TO ASIA
         // Options are: "NA" (North America), "EU" (Europe), "AS" (Asia)
-        region: "AS" 
+        region: "NA" 
       }),
     });
 
