@@ -19,8 +19,7 @@ export async function POST() {
         offline_timeout: 7200, // 2 hours
         tag: "my-main-browser",
         // PORTRAIT SETTINGS
-        width: 720,   // Narrower
-        height: 1280, // Taller
+      
 
         // SET REGION TO ASIA
         // Options are: "NA" (North America), "EU" (Europe), "AS" (Asia)
